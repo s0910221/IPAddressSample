@@ -14,6 +14,7 @@ namespace testIP
             //1.2.3.0 / 24
 //1.32.232.0 / 21
 
+
             IPAddress ip = IPAddress.Parse("192.168.5.6");
             IPAddress ip2 = IPAddress.Parse("192.168.0.0");
             IPAddress sub = IPAddress.Parse("255.255.0.0");
